@@ -6,7 +6,7 @@
 
 ## About Snapshots
 
-Snapshots are saved to the hard disk image that you started xemu with.
+Snapshots are saved to the hard disk image that you started xemu with. They will not work with raw format hard disk images (ie .bin files).
 
 !!! danger "Important Notes"
 
